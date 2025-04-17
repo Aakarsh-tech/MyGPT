@@ -12,13 +12,13 @@ MyGPT is a personalized AI chatbot application built using React, integrated wit
 💡 Custom Prompt Handling
 
 🚀 Features:
-Clean, ChatGPT-like UI
+1) Clean, ChatGPT-like UI
 
-Fast and responsive messaging
+2) Fast and responsive messaging
 
-API-powered dynamic responses
+3) API-powered dynamic responses
 
-Easy customization and deployment
+4) Easy customization and deployment
 ## Getting Started
 
 First, add your OpenAI API key to `.env.local` file:
